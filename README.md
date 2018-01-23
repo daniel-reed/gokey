@@ -2,7 +2,7 @@
 
 Gokey is a small library to assist with reading and writing PEM ecdsa and rsa public and private keys
 
-##Usage
+## Usage
 
 ### Command Line
 ```
